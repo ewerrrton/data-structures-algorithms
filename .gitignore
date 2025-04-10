@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Eclipse/VSCode/NetBeans project files
+*.project
+*.classpath
+*.settings/
+.vscode/
+.idea/
+nbproject/
+
+# macOS files
+.DS_Store
+
+# Linux swap files
+*~
+
+# build/
+build/
+out/

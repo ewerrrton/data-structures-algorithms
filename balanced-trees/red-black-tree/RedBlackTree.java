@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class ArvoreRB {
+public class RedBlackTree {
 
     private Node root;
 

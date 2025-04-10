@@ -1,4 +1,4 @@
-public class Fila {
+public class Circular {
 
     private int[] fila;
     private int head;
@@ -6,7 +6,7 @@ public class Fila {
     private int size;
 
 
-    public Fila(int capacidade) {
+    public Circular(int capacidade) {
         this.fila = new fila[capacidade];
         this.head = -1;
         this.tail = -1;
